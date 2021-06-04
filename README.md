@@ -1,38 +1,36 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Module X - Day X
+# Module 1 - Day 5
 
 
 ## Lab 
 
-[Link to LAB](# lab)
+[JS Vikings](https://github.com/ironhack-labs/lab-javascript-vikings)
 
 
 ## Class
 
-- [Link Topic 1](# .md Topic 1)
+- JS Objects methods
 
-- [Link Topic 1] (# .md Topic 2)
+- JS OOP
 
-- [Link Topic 1] (# .md Topic 3)
+- CSS Positon
 
-- etc...
+- CSS Advanced Selectors
+
+- CSS Flexbox
 
 
 ## Self Guided
 
-[Link to Self Guided](# Self Guided)
+Free
 
 
 ## Assesment 
 
-[Link to Assesment](# assesment)
+Go in the student portal and do the assesment
 
 
 ## Extra Resources
 
-- [Link to Extra Resource 1](# Extra Resources 1)
-
-- [Link to Extra Resource 2](# Extra Resources 2)
-
-- [Link to Extra Resource 3](# Extra Resources 3)
+TBD
