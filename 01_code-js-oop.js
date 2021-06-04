@@ -8,8 +8,12 @@ const order1 = {
   price: 10,
   sugar: false,
   extraFoam: true,
+  callCustomer: function (barista) {
+    console.log(`${barista} says: "Hey customer your cappucino is ready!"`);
+  },
 };
 
+order1.callCustomer("Miki");
 /*
 // From the losson about objects -> The reason for objects
 const customer = "Ironhack";
