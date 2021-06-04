@@ -13,7 +13,8 @@ const order1 = {
   },
 };
 
-order1.callCustomer("Miki");
+order1.callCustomer("Miki"); //We shouldn't call this a function, now it's a method.
+
 /*
 // From the losson about objects -> The reason for objects
 const customer = "Ironhack";
