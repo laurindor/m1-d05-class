@@ -2,11 +2,10 @@
 
 # Module 1 - Day 5
 
-
-## Lab 
+## Lab
 
 [JS Vikings](https://github.com/ironhack-labs/lab-javascript-vikings)
-
+[CSS Spotify Clone](https://github.com/ironhack-labs/lab-css-spotify-clone)
 
 ## Class
 
@@ -20,17 +19,14 @@
 
 - CSS Flexbox
 
-
 ## Self Guided
 
 Free
 
-
-## Assesment 
+## Assesment
 
 Go in the student portal and do the assesment
 
-
 ## Extra Resources
 
-TBD
+[JS this Keyword on W3Schools] (https://www.w3schools.com/js/js_this.asp)
